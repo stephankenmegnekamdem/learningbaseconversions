@@ -1,19 +1,19 @@
-LearningBaseConversions: A Game of Logic
+**LearningBaseConversions: A Game of Logic**
 
-Educational Background
+**Educational Background**
 
 I am currently a third-year undergraduate student pursuing a Bachelor’s  degree in Software Engineering. I have always been passioned about anything that has to do with computers especially understanding how they function and how to develop programs. From an early stage, I viewed programming as a game in which understanding/learning the syntax of a programming language felt like understanding/learning the rules of a game, apply them felt like playing and seeing the code work successfully felt like winning the game.  This process has always given me great satisfaction and motivation to continue learning.
 I am always  amazed when I see all these programming languages, computers, artificial intelligence and recent technologies. I usually wonder how all these technologies have been made possible, which has driven my curiosity and desire to understand them at a deeper level.
 
-Coding Experience
+**Coding Experience**
 
 I started coding several years ago during my secondary education, where I learned C-programming language using Dev-C++ . At University, I learned more about C++, Java and Python as powerful programming languages. I also took courses in Data structures and algorithms, Object Oriented Programming, Software Requirements and Analysis, Software Design and Architecture and I am currently taking courses on Database Management Systems, Web programming and Artificial Intelligence to name a few. 
 
-Idea behind the project
+**Idea behind the project**
 
 Motivated by my curiosity about how computers work, I decided to develop a base conversion learning program. While Base Conversion may not seem  useful in everyday life at a first glance, taking a deep look  into it helps  develop a logical thinking to be used in all  daily activities and bridges the gap between users and their devices which fundamentally use binary number systems. This program encourages users to identify a problem, understand the problem, find a pattern to solve the problem and  then generalize the pattern and develop something complex to solve similar problems in the future. This can be used in domains like business, education, shopping and choosing among various possibilities. Also, being a student I know how difficult it is to find reliable learning  resources, and this project aims to provide a clear and structured way to understand base conversions and generalize a conversion pattern to similar conversion problems.
 
-Why I chose  kotlin
+**Why I chose  kotlin**
 
 I recently discovered Kotlin and was amazed by its multiplatform capabilities. I was amazed by how a single code can  be used to build programs for Android, iOS, desktop, and especially webside and serverside platforms. This is also my first encounter with a language suitable for mobile development
 Relevant Hobbies
@@ -22,6 +22,6 @@ During my free time, I  continue  learning  about Java, exploring its internal w
 Professional Background
 As a third-year undergraduate student, my professional experience is currently focused on academic projects and personal learning. Through coursework and independent practice, I have developed a strong foundation in software development principles and continue to build practical skills in preparation for future professional opportunities.
 
-Technologies Used
+**Technologies Used**
 
 The project was originally developed using Java, which helped establish the core logic and functionality. As the project evolved, it was later refactored and converted to Kotlin Multiplatform with a Jetpack Compose-based UI for Android, iOS and Desktop platforms. During this process, I made use of AI-assisted development tools to better understand Compose concepts and accelerate the migration, while still manually reviewing and adapting the code. This transition allowed me to improve the project’s structure, modernize the user interface, and gain hands-on experience with Kotlin and declarative UI development.
