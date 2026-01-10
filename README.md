@@ -1,3 +1,29 @@
+# Learning Base Conversions (A GAME OF LOGIC)
+
+## Project Description
+
+Learning Base Conversions is a Kotlin Multiplatform (KMP) application targeting Android, iOS, Desktop (JVM) and designed to help users learn and practice number base conversions, taking  **base 2 (binary)** and **base 10 (decimal)** as the fundamental bases.  
+
+The application provides two main modes:  
+- **Learn Mode**, where users are guided step by step through base conversion concepts. It's divide into base 2 and base 10 conversions
+- **Answer Mode**, where users can get a direct answer to the conversion without any explanation/steps.  It's divide into base 2 and base 10 conversions
+
+The project was originally implemented as a class-based Java/Kotlin program and later refactored into a modern, screen-based **Compose Multiplatform UI**, making it cross-platform for Android, iOS, and Desktop.
+
+---
+## Technologies Used
+
+- Kotlin Multiplatform (KMP)  
+- Jetpack Compose   
+- Gradle  
+- IntelliJ IDEA / Android Studio
+- Git  
+
+---
+
+## Project Structure
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
@@ -11,6 +37,41 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 
 * [/iosApp](./iosApp/iosApp) contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform,
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+
+
+  We have the App.kt file controlling navigation between screens and Screen keeping the declarations for each sealed object
+  - **Main Screens** include:  
+  - WelcomeScreen  
+  - NameScreen  to enter your name and proceed to yes/no screen based on your choice
+  - YesNoScreen to proceed to either LearnScreen or AnswerScreen
+  - LearnScreen subdivided into :
+    - LearnBase2MenuScreen unfolding to LearnBase2DetailScreen where actual conversion is made for base 2 
+    - LearnBase10MenuScreen unfolding to LearnBase10DetailScreen where actual conversion is made for base 10
+  - AnswerScreen subdivided into :  
+  - AnswerBase2Screen unfolding to AnswerBase2ConversionScreen where actual conversion is made for base 2 
+  - AnswerBase10Screen unfolding to AnswerBase10ConversionScreen where actual conversion is made for base 10
+
+---
+
+
+## Installation Instructions
+
+### Prerequisites
+
+- JDK 17 or newer  
+- IntelliJ IDEA
+- Android Studio
+- KotlinMultiPlatform plugin 
+- Git
+- X-Code 
+
+---
+
+### Clone the Repository
+
+```bash
+git clone  https://github.com/stephankenmegnekamdem/learningbaseconversions.git
+cd learningbaseconversions
 
 ### Build and Run Android Application
 
