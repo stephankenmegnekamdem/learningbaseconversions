@@ -7,7 +7,6 @@
 - [Installation Instructions](#installation-instructions)
 - [Clone the repositorty](#clone-the-repository)
 - [Demo](#demo)
-- [LICENSE](#license)
 - [Key Features](#key-features)
 ## Project Description
 
