@@ -57,8 +57,8 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
     - LearnBase2MenuScreen unfolding to LearnBase2DetailScreen where actual conversion is made for base 2 
     - LearnBase10MenuScreen unfolding to LearnBase10DetailScreen where actual conversion is made for base 10
   - AnswerScreen subdivided into :  
-  - AnswerBase2Screen unfolding to AnswerBase2ConversionScreen where actual conversion is made for base 2 
-  - AnswerBase10Screen unfolding to AnswerBase10ConversionScreen where actual conversion is made for base 10
+    - AnswerBase2Screen unfolding to AnswerBase2ConversionScreen where actual conversion is made for base 2 
+    - AnswerBase10Screen unfolding to AnswerBase10ConversionScreen where actual conversion is made for base 10
 
 ---
 
