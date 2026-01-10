@@ -7,6 +7,7 @@
 - [Installation Instructions](#installation-instructions)
 - [Clone the repositorty](#clone-the-repository)
 - [Demo](#demo)
+- [License](#license)
 - [Key Features](#key-features)
 ## Project Description
 
@@ -131,8 +132,8 @@ in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and r
 
 ---
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+### License
+This project is licensed under the MIT License. See the [License](./LICENSE) file for details.
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…# leaningbaseconversionstest
