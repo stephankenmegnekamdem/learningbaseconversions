@@ -46,6 +46,8 @@ To build and run the development version of the iOS app, use the run configurati
 in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and run it from there.
 
 ---
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…# leaningbaseconversionstest
 # leaningbaseconversionstest
