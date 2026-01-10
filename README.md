@@ -1,5 +1,14 @@
 # Learning Base Conversions (A GAME OF LOGIC)
+## Table of Contents
 
+- [Project Description](#project-description)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Installation Instructions](#installation-instructions)
+- [Clone the repositorty](#clone-the-repository)
+- [Demo](#demo)
+- [LICENSE](#license)
+- [Key Features](#key-features)
 ## Project Description
 
 Learning Base Conversions is a Kotlin Multiplatform (KMP) application targeting Android, iOS, Desktop (JVM) and designed to help users learn and practice number base conversions, taking  **base 2 (binary)** and **base 10 (decimal)** as the fundamental bases.  
