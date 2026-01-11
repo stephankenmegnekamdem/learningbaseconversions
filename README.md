@@ -11,7 +11,7 @@
 - [Key Features](#key-features)
 ## Project Description
 
-Learning Base Conversions is a Kotlin Multiplatform (KMP) application targeting Android, iOS, Desktop (JVM) and designed to help users learn and practice number base conversions, taking  **base 2 (binary)** and **base 10 (decimal)** as the fundamental bases.  
+Learning Base Conversions is a Kotlin Multiplatform (KMP) application targeting Android, iOS, Desktop (JVM) and designed to help users learn and practice number base conversions, taking  **base 2 (binary)** and **base 10 (decimal)** as the fundamental bases. It helps develop a logical thinking to be used in all daily activities and bridges the gap between users and their devices which fundamentally use binary number systems  
 
 The application provides two main modes:  
 - **Learn Mode**, where users are guided step by step through base conversion concepts. It's divide into base 2 and base 10 conversions
