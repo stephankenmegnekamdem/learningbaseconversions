@@ -5,7 +5,6 @@
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Installation Instructions](#installation-instructions)
-- [Clone the repositorty](#clone-the-repository)
 - [Demo](#demo)
 - [License](#license)
 - [Key Features](#key-features)
