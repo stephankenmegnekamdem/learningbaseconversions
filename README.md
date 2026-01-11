@@ -13,10 +13,10 @@
 Learning Base Conversions is a Kotlin Multiplatform (KMP) application targeting Android, iOS, Desktop (JVM) and designed to help users learn and practice number base conversions, taking  **base 2 (binary)** and **base 10 (decimal)** as the fundamental bases. It helps develop a logical thinking to be used in all daily activities and bridges the gap between users and their devices which fundamentally use binary number systems  
 
 The application provides two main modes:  
-- **Learn Mode**, where users are guided step by step through base conversion concepts. It's divide into base 2 and base 10 conversions
-- **Answer Mode**, where users can get a direct answer to the conversion without any explanation/steps.  It's divide into base 2 and base 10 conversions
+- **Learn Mode**, where users are guided step by step through base conversion concepts. It's divided into base 2 and base 10 conversions
+- **Answer Mode**, where users can get a direct answer to the conversion without any explanation/steps. This can be used as exercise in which you can verify your answer It's divide into base 2 and base 10 conversions
 
-The project was originally implemented as a class-based Java/Kotlin program and later refactored into a modern, screen-based **Compose Multiplatform UI**, making it cross-platform for Android, iOS, and Desktop.
+The project was originally implemented as a class-based Java/Kotlin program and later refactored with help of AI tool into a modern, screen-based **Compose Multiplatform UI**, making it cross-platform for Android, iOS, and Desktop.
 
 ---
 ## Technologies Used
@@ -25,7 +25,8 @@ The project was originally implemented as a class-based Java/Kotlin program and 
 - Jetpack Compose   
 - Gradle  
 - IntelliJ IDEA / Android Studio
-- Git  
+- Git
+- AI tool
 
 ---
 
