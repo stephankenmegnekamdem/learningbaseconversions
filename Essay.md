@@ -16,7 +16,8 @@ Motivated by my curiosity about how computers work, I decided to develop a base 
 **Why I chose  kotlin**
 
 I recently discovered Kotlin and was amazed by its multiplatform capabilities. I was amazed by how a single code can  be used to build programs for Android, iOS, desktop, and especially webside and serverside platforms. This is also my first encounter with a language suitable for mobile development
-Relevant Hobbies
+
+**Relevant Hobbies**
 
 During my free time, I  continue  learning  about Java, exploring its internal workings and libraries.  I am also expanding my knowledge of graphical user interfaces, as most of my previous experience has been with command-line applications.
 Professional Background
