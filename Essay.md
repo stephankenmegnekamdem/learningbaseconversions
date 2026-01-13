@@ -20,7 +20,9 @@ I recently discovered Kotlin and was amazed by its multiplatform capabilities. I
 **Relevant Hobbies**
 
 During my free time, I  continue  learning  about Java, exploring its internal workings and libraries.  I am also expanding my knowledge of graphical user interfaces, as most of my previous experience has been with command-line applications.
-Professional Background
+
+**Professional Background**
+
 As a third-year undergraduate student, my professional experience is currently focused on academic projects and personal learning. Through coursework and independent practice, I have developed a strong foundation in software development principles and continue to build practical skills in preparation for future professional opportunities.
 
 **Technologies Used**
